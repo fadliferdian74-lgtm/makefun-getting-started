@@ -26,6 +26,7 @@ have cost real entrants their entries, and they are all avoidable.
 ## Contents
 
 - [The ten-minute version](#the-ten-minute-version)
+- [Your first hour, as a checklist](#your-first-hour-as-a-checklist)
 - [What make.fun actually is](#what-makefun-actually-is)
 - [What you need before you start](#what-you-need-before-you-start)
 - [Step 1 — Create your account](#step-1--create-your-account)
@@ -53,6 +54,25 @@ That one prompt works because make.fun documents the entire entry loop — login
 claiming — in a file written for agents. You stay in charge of the two things only a human should do: approving
 the login, and choosing whether a risky entry is worth a submission slot. Everything else in this guide is the
 same loop, explained slowly, for people who would rather understand it than delegate it.
+
+## Your first hour, as a checklist
+
+Most first entries are submitted within an hour of signup. Here is the shape of that hour, so you can see how
+little ceremony there really is:
+
+- [ ] **Minutes 0–5 — Account.** Sign up through [make.fun/r/e54m9edg](https://make.fun/r/e54m9edg), link GitHub,
+      set your username.
+- [ ] **Minutes 5–15 — Recon.** Read one bounty's rules page end to end. Write down its deadline, its submission
+      cap and its exact deliverable in one sentence each. If you cannot, read it again — this is the step everyone
+      skips and the step that decides everything.
+- [ ] **Minutes 15–20 — Setup.** Download the kit, run `login`, create the public repository (after the bounty
+      opened — check the clock), add the MIT license, set the repo's About and badges if the bounty asks for them.
+- [ ] **Minutes 20–50 — Build.** Fresh agent session, in the repo, from the rules outward. Draft, run, revise.
+- [ ] **Minutes 50–60 — Ship.** Bundle, run the local `check` until it is clean, submit, and screenshot the
+      submission id somewhere you will find it again.
+
+Then stop. A submitted decent entry beats an unsubmitted perfect one every single time, and your most recent
+submission is the one that counts — you can replace it tomorrow with everything you learned today.
 
 ## What make.fun actually is
 
@@ -115,6 +135,9 @@ Forecasting and Growth. For a first entry, optimise for *finishing*, not for the
   that counts. Leave yourself a spare hour for the checks in Step 5.
 - **Note the submission cap.** Many bounties allow only a few entries per account — sometimes as few as three in
   total. Treat each submission like it is spent money, because it is.
+- **Glance at the field.** The leaderboard shows how many entries are in and, for judged bounties, the scores of
+  the current leaders. You are not guessing what "good" looks like — the bar is printed on the page. Enter where
+  your agent can clear it, not where the prize is merely largest.
 
 ## Step 3 — Download the kit
 
